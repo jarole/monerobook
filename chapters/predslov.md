@@ -1,5 +1,6 @@
-#Predslov
-##Písanie knihy Mastering Monero
+# Predslov
+
+## Písanie knihy Mastering Monero
 
 Som Nico (“SerHack”), taliansky výskumník, Monero prispievateľ a vydavateľ tejto knihy. Nájsť dobrý zdroj a naučiť sa niečo o kryptomenách, môže byť neľahká úloha. Pre nových užívateľov to je doslova výzva, dostať sa cez napísanú dokumentáciu na zrozumiteľnú technickú úroveň. Keď som začínal študovať Monero, strávil som veľa času hľadaním a vyhodnocovaním informácií k tejto téme, často pochádzajúcich z rôznych zdrojov.
 
@@ -16,7 +17,7 @@ Rozoznávajúc dôležitosť tohto projektu, začal som hľadať možnosti, ako 
 Kým som pracoval na projekte Monero Integrations, zistil som že absencia obsiahlejšieho knižného sprievodcu Monerom je prekážkou pre užívateľov ako aj prispievateľov. Potreba detailnej príručky ma inšpirovala k napísaniu tejto knihy, ako univerzálneho zdroja pre našu globálnu komunitu. Som vďačný za štedré dary a podporu FFS, ktoré to celé umožnili vydať ako bezplatnú eBook (a hmotnú knihu!) pre širšiu verejnosť. Či budete čítať  Mastering Monero rad radom, alebo skákať na témy, ktoré vás zaujímajú, dúfam, že si to čítanie užijete a dozviete sa niečo o Monero a jeho vzrušujúcich projektoch v rámci komunity.
 
 
-##Usporiadanie knihy
+## Usporiadanie knihy
 Kniha je zostavená v línii, aby pokryla závislosti a náväznosti medzi jednotlivými témami.
 
 Prvá kapitola ukazuje ako blockchain rieši niektoré problémy s ktorými zápasí štandardný ekonomickým model a bankový systém obzvlášť. Avšak, blockchain nie je úplné riešenie pre naše potreby. jeden problém tu pretrváva: Zabezpečiť súkromie pre online transakcie. S Monero, zisťujeme čo súkromie je a prečo sa o neho starať. To bude nápomocné pre nováčikov a užitočné pre užívateľov, ktorí niekedy zabúdajú na Monero princípy.
